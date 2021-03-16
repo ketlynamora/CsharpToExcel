@@ -66,12 +66,6 @@ namespace CsharpToExcel
             Console.WriteLine("Feito!");
             Console.ReadKey();
 
-
-
-
-
-
-
         }
     }
 }
